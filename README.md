@@ -1,2 +1,3 @@
 
-https://egorgg12.wordpress.com
+https://egorgg12.wordpress.com/(site)
+
