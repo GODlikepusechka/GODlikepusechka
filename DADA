@@ -1,0 +1,9 @@
+##GODlikepusechka.github.io
+  >https://egorgg12.wordpress.com/(site)
+  >SELECT TABLE_NAME FROM INFORMATION_TABLES WHERE TABLE_TYPE = 'BASE TABLE' <br>
+  >SELECT * FROM users *, users.col2, users.col3 FROM table1 JOIN table2 USING(id) <br>
+  >SELECT * FROM users WHERE name = "Олег"
+  
+  
+  
+  ![lagrida latex editor (^)](https:
